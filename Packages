@@ -3,11 +3,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Frigusoid
 Filename: debs/Soprano-Certificates_1.0_iphoneos-arm.deb
-Description: Certificates for Soprano tweak
+Description: Certificates for Soprano
 
 Package: com.frigusoid.soprano
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Frigusoid
 Filename: debs/Soprano_1.0_iphoneos-arm.deb
-Description: Soprano tweak for iOS 6
+Description: Soprano 
