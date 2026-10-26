@@ -3,8 +3,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Frigusoid
 Filename: debs/Soprano-Certificates_1.0_iphoneos-arm.deb
-Size: 48852
-SHA256: 08dc30c3fa80ce109ff7d6687d2ca3cd05fa298a03f25f045c19b65221d3884c
 Section: Tweaks
 Description: Certificates for Soprano
  27 корневых сертификатов, которых нет в iOS 6.
@@ -14,8 +12,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Frigusoid
 Filename: debs/Soprano_1.0_iphoneos-arm.deb
-Size: 134088
-SHA256: 85d0155320f7124409f9e021de5ba9c486c2b0bbe8894823602835f4cc8ff370
 Section: Tweaks
 Description: Soprano
  Браузер для iOS 6 и профиль современных корневых сертификатов.
